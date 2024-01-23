@@ -24,7 +24,10 @@ I am a passionate full stack web developer and motivated, I have knowledge of th
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <br />
+
+
 <br />
+
 
 ## 📊 Statistics
 
